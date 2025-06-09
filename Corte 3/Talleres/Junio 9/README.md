@@ -132,8 +132,4 @@ db.operadoresCombinaciones.find({}, { operadores: 1, _id: 0 })
 
 ---
 
-## 📤 Autor
 
-> Proyecto académico de respaldo MongoDB – operadores lógicos y de comparación  
-> ✍️ Estudiante de base de datos NoSQL  
-> 📆 Junio 2025
